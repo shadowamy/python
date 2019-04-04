@@ -1,0 +1,6 @@
+add newfile
+delete oldfile (enable, unable)
+change olefile newfile (enable, unable)
+show
+get filename (enable, unable)
+quit

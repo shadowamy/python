@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../FileClient/.idea/FileClient.iml" filepath="$PROJECT_DIR$/../FileClient/.idea/FileClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FileServer/.idea/FileServer.iml" filepath="$PROJECT_DIR$/../FileServer/.idea/FileServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../QingGuo_img/.idea/QingGuo_img.iml" filepath="$PROJECT_DIR$/../QingGuo_img/.idea/QingGuo_img.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SerialTest2/.idea/SerialTest2.iml" filepath="$PROJECT_DIR$/../SerialTest2/.idea/SerialTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spider_test/.idea/Spider_test.iml" filepath="$PROJECT_DIR$/../Spider_test/.idea/Spider_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Tensor_lern.iml" filepath="$PROJECT_DIR$/.idea/Tensor_lern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../c-compiler/.idea/c-compiler.iml" filepath="$PROJECT_DIR$/../c-compiler/.idea/c-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../img/.idea/img.iml" filepath="$PROJECT_DIR$/../img/.idea/img.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../img_check/.idea/img_check.iml" filepath="$PROJECT_DIR$/../img_check/.idea/img_check.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../img_test2/.idea/img_test2.iml" filepath="$PROJECT_DIR$/../img_test2/.idea/img_test2.iml" />
+      <module fileurl="file://D:/Python_web/mysite/.idea/mysite.iml" filepath="D:/Python_web/mysite/.idea/mysite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../serial_test/.idea/serial_test.iml" filepath="$PROJECT_DIR$/../serial_test/.idea/serial_test.iml" />
+    </modules>
+  </component>
+</project>
